@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Caio Marques 🖐️
 
-[![Website](https://img.shields.io/badge/DevMarqs.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dev-marqs.netlify.app/)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devcaiomarques/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marqs_dev/)
 [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/marques_Ch)
