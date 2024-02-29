@@ -1,12 +1,11 @@
-### Olá! Eu sou o Caio Marques 🖐️
+### Hey! I`m Caio Marques, I'm 21 years old and I started to study Software Engineer 2 years ago. 🖐️
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devcaiomarques/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marqs_dev/)
-[![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/marques_Ch)
 
 ![Caio-dev00 GitHub stats](https://github-readme-stats.vercel.app/api?username=Caio-dev00&show_icons=true&theme=radical)
 
-## Tecnologias que uso no meu dia
+## My tecnologies?
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
