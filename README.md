@@ -1,4 +1,4 @@
-### Hey! I`m Caio Marques, I'm 21 years old and I started to study Software Engineer 3 years ago. 🖐️
+### Hey! I`m Caio Marques, 21 years old and I started to study Software Engineer 3 years ago. 🖐️
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devcaiomarques/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marqs_dev/)
