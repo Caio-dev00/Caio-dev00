@@ -27,4 +27,4 @@
   <img align="center" alt="wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
 </div>
 <br>
-Sou apaixonado por programação, sempre focado e buscando consistência e aprendendo cada vez mais!
+I'm an enthusiastic of programming, I keep going studying every day to learn more.
